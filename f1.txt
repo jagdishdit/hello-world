@@ -2,3 +2,4 @@ first git file
 2nd line
 3rd line added
 4th line added 
+in master branch
